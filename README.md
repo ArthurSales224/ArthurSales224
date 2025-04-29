@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Arthur Sales Novais de Oliveira, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMESP. Desde criança sempre tive apego pela área de Tecnologia, porém, comecei a me dedicar mais a partir do terceiro ano do Ensino Médio. Tenho mais conhecimento na área de BackEnd, programando em linguagens como Python, C# e MySQL.
+Me chamo Arthur Sales Novais de Oliveira, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMESP. Desde criança sempre tive apego pela área de Tecnologia, porém, comecei a me dedicar mais a partir do terceiro ano do Ensino Médio. Tenho mais conhecimento na área de BackEnd e sempre estou buscando aprender mais!
 
 ### ⚙ Linguagens
 
